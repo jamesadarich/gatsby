@@ -21,7 +21,7 @@ module.exports = (
   const defaults = {
     maxWidth: 650,
     wrapperStyle: ``,
-    backgroundColor: `white`,
+    backgroundColor: `transparent`,
     linkImagesToOriginal: true,
     showCaptions: false,
     pathPrefix,
